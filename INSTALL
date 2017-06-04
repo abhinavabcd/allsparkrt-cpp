@@ -1,0 +1,6 @@
+
+sudo apt-get install libmysqlclient-dev
+sudo apt-get install cmake
+
+cmake -DBOOST_ROOT=/home/ubuntu/any/boost_1_63_0/
+

@@ -1,0 +1,3 @@
+set can-use-hw-watchpoints 0
+awatch [-l|-location] expr [thread thread-id] [mask maskvalue]
+

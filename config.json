@@ -1,0 +1,11 @@
+{ 
+"gcm_authorization_key" :"AAAasdasd__GCM_KEY_FROM_FIREBASE_YBULsacdPEXEB_",
+"default_db_instance_id": 0,
+"default_db_host" : "127.0.0.1",
+"default_db_port" : "3306",
+"default_db_username" : "root",
+"default_db_password": "rtcwolfenstein",
+"default_db_name": "allspark",
+"server_secret_key":"asdssadasdasd",
+"config_enable_flush_all_messages_to_db": false
+}
